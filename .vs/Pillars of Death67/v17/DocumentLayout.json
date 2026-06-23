@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\NetworkLobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\NetworkLobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\GameLoopManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GameLoopManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\NicknameValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\NicknameValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death67\\Assets\\NetworkLobbyManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death67\\Assets\\LobbyManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\MemeContent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MemeContent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\PlayerPillar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerPillar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\MapGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MapGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\LavaTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LavaTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\ExitGame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ExitGame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death67\\Assets\\QuizQuestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\MainMenuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MainMenuController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\SettingsManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SettingsManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\QuizRoundManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\QuizRoundManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\LavaScroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LavaScroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T15:12:58.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetworkLobby.cs",
+              "DocumentMoniker": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\NetworkLobby.cs",
+              "RelativeDocumentMoniker": "Assets\\NetworkLobby.cs",
+              "ToolTip": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\NetworkLobby.cs",
+              "RelativeToolTip": "Assets\\NetworkLobby.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAAMMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T18:45:48.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameLoopManager.cs",
+              "DocumentMoniker": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\GameLoopManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameLoopManager.cs",
+              "ToolTip": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\GameLoopManager.cs",
+              "RelativeToolTip": "Assets\\GameLoopManager.cs",
+              "ViewState": "AgIAANQBAAAAAAAAAAAAALsBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T14:07:36.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LavaTrigger.cs",
+              "DocumentMoniker": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\LavaTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\LavaTrigger.cs",
+              "ToolTip": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\LavaTrigger.cs",
+              "RelativeToolTip": "Assets\\LavaTrigger.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T17:07:49.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MapGenerator.cs",
+              "DocumentMoniker": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\MapGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\MapGenerator.cs",
+              "ToolTip": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\MapGenerator.cs",
+              "RelativeToolTip": "Assets\\MapGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T17:01:26.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerPillar.cs",
+              "DocumentMoniker": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\PlayerPillar.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerPillar.cs",
+              "ToolTip": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\PlayerPillar.cs",
+              "RelativeToolTip": "Assets\\PlayerPillar.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T16:58:06.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LobbyManager.cs",
+              "DocumentMoniker": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death67\\Assets\\LobbyManager.cs",
+              "RelativeDocumentMoniker": "..\\Pillars of Death67\\Assets\\LobbyManager.cs",
+              "ToolTip": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death67\\Assets\\LobbyManager.cs",
+              "RelativeToolTip": "..\\Pillars of Death67\\Assets\\LobbyManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T15:07:58.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemeContent.cs",
+              "DocumentMoniker": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\MemeContent.cs",
+              "RelativeDocumentMoniker": "Assets\\MemeContent.cs",
+              "ToolTip": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\MemeContent.cs",
+              "RelativeToolTip": "Assets\\MemeContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T21:33:43.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NetworkLobbyManager.cs",
+              "DocumentMoniker": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death67\\Assets\\NetworkLobbyManager.cs",
+              "RelativeDocumentMoniker": "..\\Pillars of Death67\\Assets\\NetworkLobbyManager.cs",
+              "ToolTip": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death67\\Assets\\NetworkLobbyManager.cs",
+              "RelativeToolTip": "..\\Pillars of Death67\\Assets\\NetworkLobbyManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T14:14:23.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NicknameValidator.cs",
+              "DocumentMoniker": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\NicknameValidator.cs",
+              "RelativeDocumentMoniker": "Assets\\NicknameValidator.cs",
+              "ToolTip": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\NicknameValidator.cs",
+              "RelativeToolTip": "Assets\\NicknameValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T18:35:54.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExitGame.cs",
+              "DocumentMoniker": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\ExitGame.cs",
+              "RelativeDocumentMoniker": "Assets\\ExitGame.cs",
+              "ToolTip": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\ExitGame.cs",
+              "RelativeToolTip": "Assets\\ExitGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T21:54:14.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainMenuController.cs",
+              "DocumentMoniker": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\MainMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenuController.cs",
+              "ToolTip": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\MainMenuController.cs",
+              "RelativeToolTip": "Assets\\MainMenuController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwGgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T13:03:10.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuizQuestion.cs",
+              "DocumentMoniker": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death67\\Assets\\QuizQuestion.cs",
+              "RelativeDocumentMoniker": "..\\Pillars of Death67\\Assets\\QuizQuestion.cs",
+              "ToolTip": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death67\\Assets\\QuizQuestion.cs",
+              "RelativeToolTip": "..\\Pillars of Death67\\Assets\\QuizQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T14:02:54.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SettingsManager.cs",
+              "DocumentMoniker": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\SettingsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SettingsManager.cs",
+              "ToolTip": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\SettingsManager.cs",
+              "RelativeToolTip": "Assets\\SettingsManager.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwFUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T20:28:56.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuizRoundManager.cs",
+              "DocumentMoniker": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\QuizRoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\QuizRoundManager.cs",
+              "ToolTip": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\QuizRoundManager.cs",
+              "RelativeToolTip": "Assets\\QuizRoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T14:11:16.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LavaScroller.cs",
+              "DocumentMoniker": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\LavaScroller.cs",
+              "RelativeDocumentMoniker": "Assets\\LavaScroller.cs",
+              "ToolTip": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\LavaScroller.cs",
+              "RelativeToolTip": "Assets\\LavaScroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T16:48:59.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Item.cs",
+              "ToolTip": "D:\\\u044E\u043D\u0438\u0442\u0438\\Pillars of Death\\Assets\\Item.cs",
+              "RelativeToolTip": "Assets\\Item.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T13:59:40.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
