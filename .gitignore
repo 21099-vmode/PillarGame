@@ -1,3 +1,4 @@
+
 /[L|l]ibrary/
 /[T|t]emp/
 /[O|o]bj/
@@ -5,5 +6,20 @@
 /[B|b]uilds/
 /[L|l]ogs/
 /[U|u]ser[S|s]ettings/
+
 *.csproj
 *.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+.DS_Store
+Thumbs.db
+
+/[A|a]sset[B|b]undles/
